@@ -1,5 +1,4 @@
 import requests
-import requests
 from bs4 import BeautifulSoup
 from apscheduler.schedulers.background import BlockingScheduler
 
